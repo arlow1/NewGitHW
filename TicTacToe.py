@@ -3,7 +3,11 @@ def TTT():
 #Second edit to push- Bryan
 #Bryan is cool
 
+<<<<<<< HEAD
 #This is a cool program- Bryan
+=======
+#First resolved issue -Brandon
+>>>>>>> 7a966f54b2b233b134fcecac51fcf9d2cf6bf063
     board = [1, 2, 3, 4, 5, 6, 7, 8, 9]
     end = False
     "I set all the possible winning combinations so that I can easily see if any player has appropriate winning moves"
