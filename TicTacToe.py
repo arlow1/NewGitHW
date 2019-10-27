@@ -3,7 +3,7 @@ def TTT():
 #Second edit to push- Bryan
 #Bryan is cool
 
-#I made a list so that I could easily change certain elements to either a 'O' or an 'x'
+#First resolved issue -Brandon
     board = [1, 2, 3, 4, 5, 6, 7, 8, 9]
     end = False
     "I set all the possible winning combinations so that I can easily see if any player has appropriate winning moves"
