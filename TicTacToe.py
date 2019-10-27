@@ -1,5 +1,6 @@
 def TTT():
 #FIRST EDIT TO PUSH BRANDON COMMENT 100
+#Second edit to push- Bryan
 
 #I made a list so that I could easily change certain elements to either a 'O' or an 'x'
     board = [1, 2, 3, 4, 5, 6, 7, 8, 9]
